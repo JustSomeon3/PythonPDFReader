@@ -1,0 +1,315 @@
+ENLACES : ['www.luarna.com']
+EMAILS: []
+WORDS:
+- caperucita: little riding hood
+- roja: red
+- reproducida: reproduced
+- sin: without
+- responsabilidad: responsibility
+- advertencia: caveat
+- de: of
+- ediciones: editions
+- este: East
+- es: it is
+- un: a
+- libro: book
+- dominio: domain
+- público: public
+- en: in
+- tanto: so much
+- que: that
+- los: the
+- derechos: Rights
+- autor: Author
+- según: according to
+- la: the
+- legislación: legislation
+- española: Spanish
+- han: they have
+- caducado: timed out
+- lo: it
+- presenta: presents
+- aquí: here
+- como: What
+- obsequio: gift
+- sus: their
+- clientes: customers
+- dejando: leaving
+- claro: Sure
+- edición: edition
+- no: No
+- está: this
+- supervisada: supervised
+- por: by
+- nuestro: our
+- departamento: department
+- forma: form
+- nos: us
+- responsabilizamos: we hold responsible
+- fidelidad: fidelity
+- del: of
+- contenido: contents
+- mismo: same
+- sólo: single
+- ha: he has
+- adaptado: adapted
+- obra: construction site
+- para: for
+- pueda: can
+- ser: be
+- fácilmente: easily
+- habituales: habitual
+- seis: six
+- pulgadas: inches
+- todos: everybody
+- efectos: effects
+- debe: must
+- considerarse: considered
+- editado: edited
+- había: there was
+- una: a
+- vez: time
+- niñita: little girl
+- pueblo: village
+- más: plus
+- bonita: pretty
+- jamás: Never
+- se: I know
+- hubiera: had
+- visto: viewed
+- su: its
+- estaba: I was
+- enloquecida: crazy
+- con: with
+- ella: she
+- abuela: grandmother
+- mucho: much
+- todavía: yet
+- esta: is
+- buena: good
+- mujer: woman
+- le: you
+- mandado: errand
+- hacer: do
+- sentaba: sat
+- llamaban: they called
+- día: day
+- madre: mother
+- habiendo: having
+- cocinado: cooked
+- unas: nail
+- tortas: cakes
+- dijo: said
+- anda: go
+- ver: watch
+- cómo: What
+- tu: your
+- pues: well
+- me: I
+- dicen: they say
+- estado: condition
+- enferma: ill
+- llévale: take him
+- torta: cake
+- tarrito: jar
+- mantequilla: Butter
+- partió: departed
+- seguida: followed
+- vivía: she lived
+- otro: other
+- al: to the
+- pasar: spend
+- bosque: forest
+- encontró: he found
+- el: the
+- compadre: buddy
+- lobo: wolf
+- tuvo: He had
+- muchas: many
+- ganas: desire
+- comérsela: eat it
+- pero: but
+- atrevió: dared
+- porque: because
+- unos: some
+- leñadores: lumberjacks
+- andaban: they walked
+- ahí: there
+- cerca: close
+- él: the
+- preguntó: I ask
+- dónde: where
+- iba: I was going
+- pobre: poor
+- niña: little girl
+- sabía: I knew
+- era: it was
+- peligroso: dangerous
+- detenerse: stop
+- hablar: speak
+- voy: I go
+- mi: me
+- llevo: wear
+- envía: send
+- vive: it lives
+- muy: very
+- lejos: far
+- sí: Yes
+- allá: there
+- molino: windmill
+- ve: go
+- primera: first
+- casita: cottage
+- bien: right
+- yo: me
+- también: also
+- quiero: I want
+- ir: to go
+- verla: see her
+- iré: I will go
+- camino: road
+- tú: your
+- aquél: that
+- veremos: we will see
+- quién: who
+- llega: arrives
+- primero: first
+- corriendo: in a hurry
+- toda: all
+- velocidad: speed
+- corto: short
+- fue: it was
+- largo: length
+- entreteniéndose: entertaining
+- coger: take
+- ave: bird
+- llanas: trowels
+- correr: run
+- tras: after
+- las: the
+- mariposas: butterflies
+- ramos: bouquets
+- florecillas: little flowers
+- encontraba: found
+- poco: little bit
+- tardó: it took
+- llegar: get
+- casa: House
+- gol: goal
+- toc: knock
+- nieta: granddaughter
+- disfrazando: disguising
+- voz: voice
+- traigo: I bring
+- cándida: candid
+- cama: bed
+- sentía: felt
+- gritó: scream
+- tira: strip
+- aldaba: knocker
+- cerrojo: bolt
+- caerá: will fall
+- tiró: shot
+- puerta: gate
+- abrió: Opened
+- abalanzó: pounced
+- sobre: on
+- devoró: devoured
+- santiamén: trice
+- hacía: towards
+- tres: three
+- días: days
+- acostarse: go to bed
+- lecho: litter
+- esperando: hoping for
+- quien: who
+- rato: little while
+- después: after
+- llegó: I arrive
+- golpear: beat
+- oír: hear
+- ronca: snores
+- asustó: scared
+- creyendo: believing
+- resfriada: cold
+- contestó: answered
+- suavizando: softening
+- viéndola: watching her
+- entrar: get in
+- mientras: while
+- escondía: hid
+- bajo: bass
+- frazada: blanket
+- deja: let
+- repisa: shelf
+- ven: come
+- acostarte: lie down
+- conmigo: with me
+- desviste: undress
+- mete: put
+- quedó: stayed
+- asombrada: amazed
+- camisa: T-shirt
+- dormir: sleep
+- qué: what
+- brazos: arms
+- tan: so
+- grandes: large
+- tienes: you have
+- abrazarte: hug you
+- mejor: better
+- hija: daughter
+- mía: mine
+- piernas: legs
+- tiene: have
+- orejas: ears
+- ojos: eyes
+- dientes: teeth
+- comerte: eat you
+- diciendo: saying
+- estas: these
+- palabras: words
+- malo: bad
+- comió: ate
+- moraleja: moral
+- vemos: we see
+- adolescencia: adolescence
+- especial: special
+- señoritas: ladies
+- hechas: made
+- amables: kind
+- bonitas: pretty
+- deben: must
+- cualquiera: any
+- complacencia: complacency
+- resulta: result
+- causa: cause
+- extrañeza: strangeness
+- son: are
+- presa: prey
+- digo: say
+- envoltura: envelope
+- igual: Same
+- calaña: ilk
+- hay: there are
+- poca: little
+- maña: manna
+- silenciosos: silent
+- odio: hatred
+- ni: neither
+- amargura: bitterness
+- secreto: secret
+- pacientes: patients
+- dulzura: sweetness
+- van: go
+- siga: follow
+- damiselas: damsels
+- hasta: until
+- casas: houses
+- callejuelas: alleys
+- sabemos: we know
+- zalameros: smoothies
+- entre: Come in
+- lobos: Wolves
+- ay: Oh
+- fieros: fierce
